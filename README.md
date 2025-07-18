@@ -86,3 +86,7 @@ decision_tree_task1.ipynb: Main notebook with model implementation, visualizatio
 Output_task-1.jpg: Output image of the visualized decision tree
 
 README.md: This documentation file
+
+**OUTPUT:**
+
+![Image](https://github.com/user-attachments/assets/04af8dc0-839d-4bdb-a29d-787579d5ed84)
